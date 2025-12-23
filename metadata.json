@@ -1,0 +1,7 @@
+{
+  "name": "AI Movie Trailer Scout",
+  "description": "A cinematic dashboard for detecting products in movie trailers using advanced AI vision, with instant Flipkart shopping integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
